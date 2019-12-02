@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-29T16:02:22.443Z</updated>
+  <updated>2019-12-02T15:49:53.335Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>记一次docker运行tomcat容器</title>
+    <link href="http://yoursite.com/2019/12/03/docker/"/>
+    <id>http://yoursite.com/2019/12/03/docker/</id>
+    <published>2019-12-02T23:00:51.000Z</published>
+    <updated>2019-12-02T15:49:53.335Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;首先安装在linux中安装好docker,安装过程省略。&lt;br&gt;    启动docker服务:&lt;br&gt;    &lt;img src=&quot;/2019/12/03/docker/docker1.jpg&quot; alt=&quot;docker&quot;&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Docker" scheme="http://yoursite.com/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
     <title>常用git命令整理</title>
     <link href="http://yoursite.com/2019/11/27/git/"/>
     <id>http://yoursite.com/2019/11/27/git/</id>
     <published>2019-11-26T23:14:13.000Z</published>
-    <updated>2019-11-29T16:02:22.443Z</updated>
+    <updated>2019-12-02T15:24:53.784Z</updated>
     
     <summary type="html">
     

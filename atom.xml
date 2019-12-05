@@ -130,18 +130,11 @@
     <link href="http://yoursite.com/2019/12/03/docker/"/>
     <id>http://yoursite.com/2019/12/03/docker/</id>
     <published>2019-12-03T00:02:51.000Z</published>
-    <updated>2019-12-02T16:03:55.328Z</updated>
+    <updated>2019-12-05T02:11:29.397Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;首先安装在linux中安装好docker,安装过程省略。&lt;br&gt;    启动docker服务:&lt;br&gt;    &lt;img src=&quot;/2019/12/03/docker/docker1.jpg&quot; alt=&quot;docker&quot;&gt;&lt;/p&gt;
-&lt;h2
-        
-      
+      &lt;p&gt;首先安装在linux中安装好docker,安装过程省略。&lt;br&gt;    启动docker服务:&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -158,18 +151,12 @@
     <link href="http://yoursite.com/2019/11/27/git/"/>
     <id>http://yoursite.com/2019/11/27/git/</id>
     <published>2019-11-26T23:14:13.000Z</published>
-    <updated>2019-12-04T15:28:01.188Z</updated>
+    <updated>2019-12-05T02:10:41.421Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;项目初始化以及提交&quot;&gt;&lt;a href=&quot;#项目初始化以及提交&quot; class=&quot;headerlink&quot; title=&quot;项目初始化以及提交&quot;&gt;&lt;/a&gt;项目初始化以及提交&lt;/h2&gt;&lt;hr&gt;
-&lt;figure class=&quot;highlight
-        
-      
+      &lt;h2 id=&quot;项目初始化以及提交&quot;&gt;&lt;a href=&quot;#项目初始化以及提交&quot; class=&quot;headerlink&quot; title=&quot;项目初始化以及提交&quot;&gt;&lt;/a&gt;项目初始化以及提交&lt;/h2&gt;&lt;hr&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git &lt;span class=&quot;built_in&quot;&gt;clone&lt;/span&gt; https://github.com/SuperWanghao/SuperWanghao.github.io.git //克隆项目到本地&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;//将你的项目添加到你的远程仓库并推送&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git remote add origin yourGitAddress&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;git push origin master -f&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     

@@ -79,16 +79,16 @@
 
 
 
-<meta name="description" content="首先安装在linux中安装好docker,安装过程省略。    启动docker服务:     在docker中安装运行tomcat容器1systemctl start docker查找所需要的docker镜像1docker search 镜像名  &#x2F;&#x2F;从官方库中查找所需镜像拉取镜像![拉取镜像](docker2.jpg) 1docker pull 镜像名  &#x2F;&#x2F;从官方库中拉取所需镜像查看镜像![">
+<meta name="description" content="首先安装在linux中安装好docker,安装过程省略。    启动docker服务:">
 <meta name="keywords" content="Docker">
 <meta property="og:type" content="article">
 <meta property="og:title" content="记一次docker运行tomcat容器">
 <meta property="og:url" content="http:&#x2F;&#x2F;yoursite.com&#x2F;2019&#x2F;12&#x2F;03&#x2F;docker&#x2F;index.html">
 <meta property="og:site_name" content="SuperWanghao">
-<meta property="og:description" content="首先安装在linux中安装好docker,安装过程省略。    启动docker服务:     在docker中安装运行tomcat容器1systemctl start docker查找所需要的docker镜像1docker search 镜像名  &#x2F;&#x2F;从官方库中查找所需镜像拉取镜像![拉取镜像](docker2.jpg) 1docker pull 镜像名  &#x2F;&#x2F;从官方库中拉取所需镜像查看镜像![">
+<meta property="og:description" content="首先安装在linux中安装好docker,安装过程省略。    启动docker服务:">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="http:&#x2F;&#x2F;yoursite.com&#x2F;2019&#x2F;12&#x2F;03&#x2F;docker&#x2F;docker1.jpg">
-<meta property="og:updated_time" content="2019-12-02T16:03:55.328Z">
+<meta property="og:updated_time" content="2019-12-05T02:11:29.397Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="http:&#x2F;&#x2F;yoursite.com&#x2F;2019&#x2F;12&#x2F;03&#x2F;docker&#x2F;docker1.jpg">
 
@@ -335,7 +335,7 @@
       
 
       
-        <p>首先安装在linux中安装好docker,安装过程省略。<br>    启动docker服务:<br>    <img src="/2019/12/03/docker/docker1.jpg" alt="docker"></p>
+        <p>首先安装在linux中安装好docker,安装过程省略。<br>    启动docker服务:<br>    <a id="more"></a><br>    <img src="/2019/12/03/docker/docker1.jpg" alt="docker"></p>
 <h2 id="在docker中安装运行tomcat容器"><a href="#在docker中安装运行tomcat容器" class="headerlink" title="在docker中安装运行tomcat容器"></a>在docker中安装运行tomcat容器</h2><pre><code><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">systemctl start docker</span><br></pre></td></tr></table></figure></code></pre><h2 id="查找所需要的docker镜像"><a href="#查找所需要的docker镜像" class="headerlink" title="查找所需要的docker镜像"></a>查找所需要的docker镜像</h2><pre><code><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker search 镜像名  //从官方库中查找所需镜像</span><br></pre></td></tr></table></figure></code></pre><h2 id="拉取镜像"><a href="#拉取镜像" class="headerlink" title="拉取镜像"></a>拉取镜像</h2><pre><code>![拉取镜像](docker2.jpg)
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker pull 镜像名  //从官方库中拉取所需镜像</span><br></pre></td></tr></table></figure></code></pre><h2 id="查看镜像"><a href="#查看镜像" class="headerlink" title="查看镜像"></a>查看镜像</h2><pre><code>![查看镜像](docker3.jpg)
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#CONTAINER ID：容器的ID</span></span><br><span class="line"><span class="comment">#IMAGE：启动容器使用的镜像</span></span><br><span class="line"><span class="comment">#CREATED：创建时间</span></span><br><span class="line"><span class="comment">#STATUS： 状态</span></span><br><span class="line"><span class="comment">#PORTS:端口映射信息</span></span><br><span class="line"><span class="comment">#NAMES：容器名称</span></span><br><span class="line"><span class="comment">#docker images //查看docker下载的镜像</span></span><br><span class="line"><span class="comment">#docker ps //查看当前正在运行的容器</span></span><br><span class="line"><span class="comment">#docker ps -a //查看所有的容器</span></span><br></pre></td></tr></table></figure></code></pre><h3 id="启动tomcat容器以及上传war包"><a href="#启动tomcat容器以及上传war包" class="headerlink" title="启动tomcat容器以及上传war包"></a>启动tomcat容器以及上传war包</h3><pre><code>![启动容器](docker4.jpg)

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SuperWanghao</title>
-  <icon>http://yoursite.com/icon.png</icon>
+  <icon>http://www.superwanghao.com/icon.png</icon>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.superwanghao.com/"/>
   <updated>2019-12-04T15:49:55.025Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.superwanghao.com/</id>
   
   <author>
     <name>王浩</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>泛型</title>
-    <link href="http://yoursite.com/2019/12/05/%E6%B3%9B%E5%9E%8B/"/>
-    <id>http://yoursite.com/2019/12/05/%E6%B3%9B%E5%9E%8B/</id>
+    <link href="http://www.superwanghao.com/2019/12/05/%E6%B3%9B%E5%9E%8B/"/>
+    <id>http://www.superwanghao.com/2019/12/05/%E6%B3%9B%E5%9E%8B/</id>
     <published>2019-12-04T23:31:31.000Z</published>
     <updated>2019-12-04T15:49:55.025Z</updated>
     
@@ -37,17 +37,17 @@
     </summary>
     
     
-      <category term="java" scheme="http://yoursite.com/categories/java/"/>
+      <category term="java" scheme="http://www.superwanghao.com/categories/java/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="http://www.superwanghao.com/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>查看git log 的命令</title>
-    <link href="http://yoursite.com/2019/12/05/git1/"/>
-    <id>http://yoursite.com/2019/12/05/git1/</id>
+    <link href="http://www.superwanghao.com/2019/12/05/git1/"/>
+    <id>http://www.superwanghao.com/2019/12/05/git1/</id>
     <published>2019-12-04T23:06:44.000Z</published>
     <updated>2019-12-04T15:28:06.043Z</updated>
     
@@ -64,17 +64,17 @@
     </summary>
     
     
-      <category term="Git" scheme="http://yoursite.com/categories/Git/"/>
+      <category term="Git" scheme="http://www.superwanghao.com/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
+      <category term="Git" scheme="http://www.superwanghao.com/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>递归算法</title>
-    <link href="http://yoursite.com/2019/12/03/recursion/"/>
-    <id>http://yoursite.com/2019/12/03/recursion/</id>
+    <link href="http://www.superwanghao.com/2019/12/03/recursion/"/>
+    <id>http://www.superwanghao.com/2019/12/03/recursion/</id>
     <published>2019-12-03T00:14:10.000Z</published>
     <updated>2019-12-04T15:50:33.030Z</updated>
     
@@ -91,17 +91,17 @@
     </summary>
     
     
-      <category term="算法" scheme="http://yoursite.com/categories/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="http://www.superwanghao.com/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="http://www.superwanghao.com/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>java</title>
-    <link href="http://yoursite.com/2019/12/03/java/"/>
-    <id>http://yoursite.com/2019/12/03/java/</id>
+    <link href="http://www.superwanghao.com/2019/12/03/java/"/>
+    <id>http://www.superwanghao.com/2019/12/03/java/</id>
     <published>2019-12-03T00:04:27.000Z</published>
     <updated>2019-12-04T15:48:40.246Z</updated>
     
@@ -118,17 +118,17 @@
     </summary>
     
     
-      <category term="java" scheme="http://yoursite.com/categories/java/"/>
+      <category term="java" scheme="http://www.superwanghao.com/categories/java/"/>
     
     
-      <category term="SpringBoot" scheme="http://yoursite.com/tags/SpringBoot/"/>
+      <category term="SpringBoot" scheme="http://www.superwanghao.com/tags/SpringBoot/"/>
     
   </entry>
   
   <entry>
     <title>记一次docker运行tomcat容器</title>
-    <link href="http://yoursite.com/2019/12/03/docker/"/>
-    <id>http://yoursite.com/2019/12/03/docker/</id>
+    <link href="http://www.superwanghao.com/2019/12/03/docker/"/>
+    <id>http://www.superwanghao.com/2019/12/03/docker/</id>
     <published>2019-12-03T00:02:51.000Z</published>
     <updated>2019-12-05T02:11:29.397Z</updated>
     
@@ -139,17 +139,17 @@
     </summary>
     
     
-      <category term="Docker" scheme="http://yoursite.com/categories/Docker/"/>
+      <category term="Docker" scheme="http://www.superwanghao.com/categories/Docker/"/>
     
     
-      <category term="Docker" scheme="http://yoursite.com/tags/Docker/"/>
+      <category term="Docker" scheme="http://www.superwanghao.com/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>常用git命令整理</title>
-    <link href="http://yoursite.com/2019/11/27/git/"/>
-    <id>http://yoursite.com/2019/11/27/git/</id>
+    <link href="http://www.superwanghao.com/2019/11/27/git/"/>
+    <id>http://www.superwanghao.com/2019/11/27/git/</id>
     <published>2019-11-26T23:14:13.000Z</published>
     <updated>2019-12-05T02:10:41.421Z</updated>
     
@@ -161,10 +161,10 @@
     </summary>
     
     
-      <category term="Git" scheme="http://yoursite.com/categories/Git/"/>
+      <category term="Git" scheme="http://www.superwanghao.com/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
+      <category term="Git" scheme="http://www.superwanghao.com/tags/Git/"/>
     
   </entry>
   
